@@ -1,1 +1,1 @@
-# P8 SSI
+# elgamal encryption implementation in C++
